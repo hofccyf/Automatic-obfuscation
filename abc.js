@@ -3,7 +3,7 @@ let subPath = 'mysssub';
 let proxyIP = 'usip.88888888.xx.kg';
 let password = '58889888-8888-8888-8888-588898885888';
 let SSpath = 'mysssub'; 
-let cfip = ['goodluck.zone.id#Jp];
+let cfip = ['goodluck.zone.id#Jp'];
 
 function closeSocketQuietly(socket) {
     try { 
